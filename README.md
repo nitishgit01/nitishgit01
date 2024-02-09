@@ -1,4 +1,6 @@
-### Hi there I am Nitish parkash. 👋
+### Hi there I am
+## Nitish parkash.👋
+
 
 <!--
 **nitishgit01/nitishgit01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
