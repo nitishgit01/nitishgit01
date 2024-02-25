@@ -1,5 +1,5 @@
 ### Hi there I am
-## Nitish parkash.👋
+## Nitish Parkash.👋
 
 
 <!--
